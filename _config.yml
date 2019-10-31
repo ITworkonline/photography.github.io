@@ -1,0 +1,22 @@
+# Base configs
+baseurl: "https://photo.itworkonline.top"
+image_fulls_loc: "/images/fulls"
+image_thumbs_loc: "/images/thumbs"
+google_analytics: "UA-46465113-2"
+
+# UI configs
+title: "Photography by JIE WANG"
+subtitle: "See the world through my eyes!"
+author: "JIE WANG"
+header:
+ title: "Photography"
+ subtitle: "by Jie Wang"
+footer:
+ name: "Hey there, my name is Jie Wang"
+ bio: "I am tuning developer and data scientist. Also I love taking photo"
+ github: "Powered by <a href=\"https://github.com/ramswaroop/photography\"> ramswaroop</a> ;)"
+web_design: "AJ"
+social_urls:
+  facebook: "https://www.facebook.com/profile.php?id=100004639157145"
+  instagram: "https://www.instagram.com/steve_turing"
+  github: "https://www.github.com/ITworkonline"
